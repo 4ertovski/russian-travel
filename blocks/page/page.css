@@ -9,4 +9,7 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
+  padding: 0;
+	margin: 0;
+	border: 0;
 }

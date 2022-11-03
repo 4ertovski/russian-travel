@@ -1,0 +1,9 @@
+.header__logo {
+  width: 100%;
+  display: block;
+  max-width: 176px;
+  min-height: 52px;
+  margin-top: 28px;
+  margin-left: 48px;
+}
+

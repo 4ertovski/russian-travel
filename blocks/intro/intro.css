@@ -1,6 +1,6 @@
 .intro {
-  margin: 0 148px;
-  max-width: 1280px;
+  margin: 0 auto;
+  max-width: 984px;
   display: flex;
   flex-direction: column;
 }

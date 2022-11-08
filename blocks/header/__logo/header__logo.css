@@ -1,9 +1,11 @@
 .header__logo {
-  width: 100%;
   display: block;
+  width: 100%;
   max-width: 176px;
-  min-height: 52px;
-  margin-top: 28px;
-  margin-left: 48px;
+  height: 52px;
 }
-
+@media (max-width: 600px) {
+  .header__logo {
+    max-width: 142px;
+  }
+}

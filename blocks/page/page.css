@@ -12,4 +12,6 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   cursor: pointer;
+  max-width: 1184px;
+  
 }

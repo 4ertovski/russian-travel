@@ -6,9 +6,8 @@
 }
 @media (max-width: 1024px) {
   .intro {
-    margin: 0 48px ;
+    margin: 0 48px;
   }
-
 }
 @media (max-width: 800px) {
   .intro {

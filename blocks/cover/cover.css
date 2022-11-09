@@ -2,14 +2,14 @@
   margin: 0 auto;
   max-width: 1184px;
 }
-@media (max-width: 768px) {
+/*.@media (max-width: 768px) {
   .cover{
     margin-top: 90px;
   }
-}
+}*/
 
 @media (max-width: 500px) {
   .cover{
-    margin-top: 66px;
+    margin-top: 75px;
   }
 }

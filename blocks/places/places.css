@@ -14,7 +14,7 @@
 }
 @media (max-width: 768px) {
   .places {
-    padding: 88px 0px 90px 0px;
+    padding: 88px 0px 80px 0px;
     margin: 0 24px;
     gap: 73px;
   }
@@ -22,7 +22,7 @@
 @media (max-width: 700px) {
   .places {
     padding-top: 64px;
-    padding-bottom: 66px;
+    padding-bottom: 0px;
     gap: 50px;
     margin: 0;
   }

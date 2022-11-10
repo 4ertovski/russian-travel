@@ -2,7 +2,8 @@
   display: flex;
   justify-content: space-between;
   gap: 18px;
-  margin: 0;
+  margin: 12px 0 0;
   padding: 0;
+  text-underline-offset: 5px;
   list-style-type: none;
 }

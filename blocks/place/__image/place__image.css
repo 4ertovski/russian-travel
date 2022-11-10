@@ -8,6 +8,5 @@
   .place__image {
     margin-bottom: 32px;
     grid-row: auto;
-    max-width: 320px;
   }
 }
